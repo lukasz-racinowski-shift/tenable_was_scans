@@ -9,4 +9,5 @@ bash 1.testme_first.sh
 
 
 all.sh sets up all the scans in 1 bulk operation
+
 mass_delete.sh removes the scheduled scans based on the scan name pattern
